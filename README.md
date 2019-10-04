@@ -1,2 +1,2 @@
 # simple-neural-networks
-A jupyther notebook creating and running a simple neural netweork
+A jupyter notebook creating and running a simple neural netweork
